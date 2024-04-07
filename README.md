@@ -20,4 +20,4 @@ Linkedin: https://www.linkedin.com/in/alessonabao <br>
 Github: https://github.com/alessonJuley <br>
 
 # Acknowledgements
-* [Microsoft Student Accelerator 2024 team](https://github.com/NZMSA/2024-Phase-1)
+* [Microsoft Student Accelerator 2024](https://github.com/NZMSA/2024-Phase-1)
