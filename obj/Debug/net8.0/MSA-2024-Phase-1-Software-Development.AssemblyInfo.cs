@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MSA-2024-Phase-1-Software-Development")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a295df07172cb5f77a32f1e41646c56318f4c42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daba7eabd55d6fab5d22d729b2593eec0e722f46")]
 [assembly: System.Reflection.AssemblyProductAttribute("MSA-2024-Phase-1-Software-Development")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MSA-2024-Phase-1-Software-Development")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
