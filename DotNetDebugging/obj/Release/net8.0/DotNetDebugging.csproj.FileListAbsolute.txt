@@ -1,0 +1,15 @@
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/bin/Release/net8.0/DotNetDebugging
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.deps.json
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.runtimeconfig.json
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.pdb
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.AssemblyInfo.cs
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.sourcelink.json
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/refint/DotNetDebugging.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.pdb
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.genruntimeconfig.cache
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/DotNetDebugging/obj/Release/net8.0/ref/DotNetDebugging.dll
