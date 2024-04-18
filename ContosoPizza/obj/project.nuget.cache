@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZECzz2cWV8/94DXqXCdXvckmxCZ+Bm1swdgaFndlTqsp3seqgqEmd7+ZF6JxAE6yMYYZu3xSvHszg3G9FM7Nug==",
+  "dgSpecHash": "R7zhT2QHRe/JgZBCGgjHZ6GpHzmuuvl96Va2AUyJuhyZLMkWRKQB1r4Eq/uEWv4ZTqU2QhxMSKiAzuOe1xQc0w==",
   "success": true,
   "projectFilePath": "/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/ContosoPizza/ContosoPizza.csproj",
   "expectedPackageFiles": [
-    "/Users/alessonabao/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/alessonabao/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
