@@ -3,8 +3,8 @@
 # GET {{ContosoPizza_HostAddress}}/weatherforecast/
 # Accept: application/json
 
-# GET {{ContosoPizza_HostAddress}}/pizza/5
-# Accept: application/json
+GET {{ContosoPizza_HostAddress}}/pizza
+Accept: application/json
 
 # PUT {{ContosoPizza_HostAddress}}/pizza/3
 # Content-Type: application/json
@@ -14,6 +14,10 @@
 #     "name": "Hawaiian",
 #     "isGlutenFree": false
 # }
+
+# DELETE {{ContosoPizza_HostAddress}}/pizza/3
+
+###
 
 ###
 
