@@ -24,3 +24,10 @@
 /Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/obj/Debug/net8.0/PizzaStore.pdb
 /Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/obj/Debug/net8.0/PizzaStore.genruntimeconfig.cache
 /Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/obj/Debug/net8.0/ref/PizzaStore.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.AssemblyReference.cache
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/obj/Debug/net8.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/obj/Debug/net8.0/PizzaStore.csproj.Up2Date
