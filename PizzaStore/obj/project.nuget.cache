@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IXaOd13FA2XAuNinQXYtgTf5SvmB4vsvArnoTUoqCE3P2rEX4hsAXCOqnzBGJgtEB29gXRQ0pwCYa+nGc6IzTA==",
+  "dgSpecHash": "cyie8Vk206IZKrut48W7/9jSZZChyc+7JbUuLV8v5kS6BnwEgnxOxZm5n8++tdqNhVBk6F5u5XTblTu0sY7Tjw==",
   "success": true,
   "projectFilePath": "/Users/alessonabao/development/MSA-2024-Phase-1-Software-Development/PizzaStore/PizzaStore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/alessonabao/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/alessonabao/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
