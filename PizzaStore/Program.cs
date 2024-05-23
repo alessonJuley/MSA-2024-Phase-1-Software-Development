@@ -39,6 +39,17 @@ app.MapPost("/pizza", async (PizzaDb db, Pizza pizza) =>
 // get single item
 app.MapGet("/pizza/{id}", async (PizzaDb db, int id) => await db.Pizzas.FindAsync(id));
 
+// update an item
+app.MapPut("/pizza/{id}", async (PizzaDb db, Pizza updatepizza, int id) =>
+{
+      var pizza = await db.Pizzas.FindAsync(id);
+      if (pizza is null) return Results.NotFound();
+      pizza.Name = updatepizza.Name;
+      pizza.Description = updatepizza.Description;
+      await db.SaveChangesAsync();
+      return Results.NoContent();
+});
+
 // read from a list of items in the pizza list
 app.MapGet("/pizzas", async (PizzaDb db) => await db.Pizzas.ToListAsync());
 
